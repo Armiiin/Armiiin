@@ -19,13 +19,14 @@
 
 
 ## My Skill Set  
+[![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,jquery,bootstrap)](https://arm.in.net/#frontend)
 <table><tr><td valign="top" width="33%">
 
 
 
 ### Frontend  
 <div align="center">  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,jquery,bootstrap)](https://arm.in.net/#frontend)
+[![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,jquery,bootstrap)](https://arm.in.net/#frontend)
 </div>
 
 </td><td valign="top" width="33%">
