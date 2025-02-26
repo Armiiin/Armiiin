@@ -19,33 +19,17 @@
 
 
 ## My Skill Set  
-[![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,jquery,bootstrap)](https://arm.in.net/#frontend)
-<table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
-<div align="center">  
 [![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,jquery,bootstrap)](https://arm.in.net/#frontend)
-</div>
-
-</td><td valign="top" width="33%">
-
-
 
 ### Backend  
-<div align="center">  
-[![My Skills](https://skillicons.dev/icons?i=php,java,js,python,ts,mysql,nodejs)](https://arm.in.net/#backend)
-
-</td><td valign="top" width="33%">
-
-
+[![Backend](https://skillicons.dev/icons?i=php,java,js,python,ts,mysql,nodejs)](https://arm.in.net/#backend)
 
 ### DevOps  
-<div align="center">  
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux,git,bash,nginx)](https://arm.in.net/#frontend)
 
-</td></tr></table>  
 
 <br/>  
 
