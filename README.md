@@ -22,13 +22,13 @@
 
 
 ### Frontend  
-[![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,jquery,bootstrap&theme=dark)](https://arm.in.net/#frontend)
+[![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,jquery,bootstrap,tailwind&theme=dark)](https://arm.in.net/#frontend)
 
 ### Backend  
-[![Backend](https://skillicons.dev/icons?i=php,java,js,python,ts,mysql,nodejs&theme=dark)](https://arm.in.net/#backend)
+[![Backend](https://skillicons.dev/icons?i=php,java,python,mysql,nodejs,js,ts&theme=dark)](https://arm.in.net/#backend)
 
 ### DevOps  
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux,git,bash,nginx&theme=dark)](https://arm.in.net/#IDE-DevTools)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux,bash,git,nginx&theme=dark)](https://arm.in.net/#IDE-DevTools)
 
 
 <br/>  
